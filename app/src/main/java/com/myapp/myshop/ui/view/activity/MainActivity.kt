@@ -1,4 +1,4 @@
-package com.myapp.myshop.ui
+package com.myapp.myshop.ui.view.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
