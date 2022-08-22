@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:tools="http://schemas.android.com/tools"
   android:layout_width="match_parent"
   android:layout_height="match_parent"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
   tools:context=".ui.view.fragment.HomeFragment">
 
-  <!-- TODO: Update blank fragment layout -->
-  <TextView
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:gravity="center"
-    android:text="@string/home" />
+  <androidx.cardview.widget.CardView
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/_16sdp"
+    app:cardCornerRadius="@dimen/_10sdp"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent">
 
-</FrameLayout>
+    <com.smarteist.autoimageslider.SliderView
+      android:id="@+id/bannerSlider"
+      android:layout_width="match_parent"
+      android:layout_height="@dimen/_150sdp"
+      app:sliderAnimationDuration="1000"
+      app:sliderAutoCycleDirection="back_and_forth"
+      app:sliderAutoCycleEnabled="true"
+      app:sliderIndicatorAnimationDuration="500"
+      app:sliderIndicatorGravity="center_horizontal|bottom"
+      app:sliderIndicatorMargin="@dimen/_16sdp"
+      app:sliderIndicatorOrientation="horizontal"
+      app:sliderIndicatorPadding="@dimen/_3sdp"
+      app:sliderIndicatorRadius="2dp"
+      app:sliderIndicatorSelectedColor="@color/purple_200"
+      app:sliderIndicatorUnselectedColor="@color/purple_500"
+      app:sliderScrollTimeInSec="5"
+      app:sliderStartAutoCycle="true" />
+
+  </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

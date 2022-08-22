@@ -9,8 +9,9 @@
         <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/layout/activity_main.xml" value="0.3048211508553655" />
         <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/layout/fragment_cart.xml" value="0.19010416666666666" />
         <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/layout/fragment_category.xml" value="0.19010416666666666" />
-        <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/layout/fragment_home.xml" value="0.25" />
         <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/layout/fragment_profile.xml" value="0.19010416666666666" />
+        <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/layout/image_slider_layout_item.xml" value="0.20416666666666666" />
         <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.22" />
       </map>
     </option>
