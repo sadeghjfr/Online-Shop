@@ -1,7 +1,7 @@
 <resources>
   <string name="app_name">MyShop</string>
   <string name="home">خانه</string>
-  <string name="category">دسته بندی</string>
+  <string name="discover">جستجو</string>
   <string name="cart">سبد خرید</string>
   <string name="profile">پروفایل</string>
   <!-- TODO: Remove or change this placeholder text -->

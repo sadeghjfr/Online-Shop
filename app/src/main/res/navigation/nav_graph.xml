@@ -13,10 +13,10 @@
     tools:layout="@layout/fragment_home" />
 
   <fragment
-    android:id="@+id/categoryFragment"
-    android:name="com.myapp.myshop.ui.view.fragment.CategoryFragment"
-    android:label="fragment_category"
-    tools:layout="@layout/fragment_category" />
+    android:id="@+id/discoverFragment"
+    android:name="com.myapp.myshop.ui.view.fragment.DiscoverFragment"
+    android:label="fragment_discover"
+    tools:layout="@layout/fragment_discover" />
 
   <fragment
     android:id="@+id/cartFragment"
