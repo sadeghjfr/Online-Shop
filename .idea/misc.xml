@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/drawable/bg_navigation.xml" value="0.1785" />
+        <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/drawable/nav_item_color_state.xml" value="0.1785" />
+        <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/font/font.xml" value="0.234375" />
+        <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/layout/activity_main.xml" value="0.3048211508553655" />
+        <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/layout/fragment_cart.xml" value="0.19010416666666666" />
+        <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/layout/fragment_category.xml" value="0.19010416666666666" />
+        <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/layout/fragment_profile.xml" value="0.19010416666666666" />
+        <entry key="..\:/Workspace/Android/MyShop/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.22" />
       </map>
     </option>
   </component>
